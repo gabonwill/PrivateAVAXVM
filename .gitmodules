@@ -1,0 +1,3 @@
+[submodule "spacesvm"]
+	path = spacesvm
+	url = https://github.com/ava-labs/spacesvm.git
