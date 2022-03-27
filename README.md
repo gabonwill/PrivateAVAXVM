@@ -1,6 +1,6 @@
 # PrivateAVAXVM
 Not Completed as I was a solo team.
-This is a Hackathon Project to create a private customized VM Subnet Implementation of the AVM.
+This is a Avalanche Hackathon Project to create a private customized VM Subnet Implementation of the AVM.
 
 The idea of this project was to have a private blockchain for an organization, which only allowed nodes to validate the blockchain if they were allocated in the statedb allow list/whitelist. 
 
